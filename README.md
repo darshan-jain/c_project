@@ -3,4 +3,5 @@
 This project is based on a very naive approach to what quora does .
 It accepts questions from the users and displays it when called for other users to answer it .
 The previous user can review the question as well as the answer .
+To run the code check out final_ask.c file .
 Thank You !
